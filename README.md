@@ -18,7 +18,7 @@
 
 ## Reinforcement Learning Algorithm
 * Deep Reinforcement Learning with Double Q-Learning (AAAI, 2015)
-  * [Original Paper](https://arxiv.org/pdf/1509.06461.pdf) / [Summary PDF](Double DQN.pdf)
+  * [Original Paper](https://arxiv.org/pdf/1509.06461.pdf) / [Summary PDF](./Double DQN.pdf)
 * Dueling Network Architectures for Deep Reinforcement Learning (arXiv, 2016)
   * [Original Paper](https://arxiv.org/pdf/1511.06581.pdf) / Summary PDF
 * Deep Recurrent Q-Learning for Partially Observable MDPs (AAAI, 2015)
