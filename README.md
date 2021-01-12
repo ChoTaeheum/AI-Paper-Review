@@ -5,15 +5,15 @@
 
 ## Bio-medical Deep Learning Algorithm
 * Dipeptide Frequency of Word Frequency and Graph Convolutional Networks for DTA Prediction (Front. Bioeng. Biotechnol., 2020)
-  * [Original Paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00267/full) / Summary PDF
+  * [Original Paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00267/full) / [Summary PDF](https://github.com/ChoTaeheum/AI-paper-review/blob/main/TFIDF-GraphDTA.pdf)
 ## Graph representation Deep Learning Algorithm
 * Semi-Supervised Classification with Graph Convolutional Networks (ICLR, 2017)
-  * [Original Paper](https://openreview.net/pdf?id=SJU4ayYgl) / Summary PDF
+  * [Original Paper](https://openreview.net/pdf?id=SJU4ayYgl) / [Summary PDF](https://github.com/ChoTaeheum/AI-paper-review/blob/main/Graph%20convolutional%20NN.pdf)
 * Convolutional Networks on Graphs for Learning Molecular FingerPrints (NIPS, 2015)
-  * [Original Paper](https://papers.nips.cc/paper/2015/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf) / Summary PDF
+  * [Original Paper](https://papers.nips.cc/paper/2015/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf) / [Summary PDF](https://github.com/ChoTaeheum/AI-paper-review/blob/main/Graph%20convolutional%20NN.pdf)
 ## Machine Learning Algorithm
 * Clustering Ensemble Method (Int. J. Mach. Learn., 2019)
-  * [Original Paper](https://link.springer.com/article/10.1007/s13042-017-0756-7) / Summary PDF
+  * [Original Paper](https://link.springer.com/article/10.1007/s13042-017-0756-7) / [Summary PDF](https://github.com/ChoTaeheum/AI-paper-review/blob/main/Adaptive%20clustering%20ensemble.pdf)
 
 
 ## Reinforcement Learning Algorithm
