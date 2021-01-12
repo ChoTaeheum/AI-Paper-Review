@@ -6,13 +6,19 @@
 ## Bio-medical Deep Learning Algorithm
 * Dipeptide Frequency of Word Frequency and Graph Convolutional Networks for DTA Prediction (2020, Front. Bioeng. Biotechnol.)
   * Original Paper Link / Summary PDF
+  
+
+## Graph representation Deep Learning Algorithm
+* Semi-Supervised Classification with Graph Convolutional Networks (2017, ICLR)
+  * Original Paper Link / Summary PDF
+
+* Convolutional Networks on Graphs for Learning Molecular FingerPrints (2015, NIPS)
+  * Original Paper Link / Summary PDF
+  
 
 ## Machine Learning Algorithm
+* Clustering Ensemble Method (2019, Int. J. Mach. Learn.)
+  * Original Paper Link / Summary PDF
 
 
 ## Reinforcement Learning Algorithm
-
-
-## Auto ML Algorithm
-
-
