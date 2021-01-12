@@ -18,14 +18,14 @@
 
 ## Reinforcement Learning Algorithm
 * Deep Reinforcement Learning with Double Q-Learning (AAAI, 2015)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://arxiv.org/pdf/1509.06461.pdf) / Summary PDF
 * Dueling Network Architectures for Deep Reinforcement Learning (arXiv, 2016)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://arxiv.org/pdf/1511.06581.pdf) / Summary PDF
 * Deep Recurrent Q-Learning for Partially Observable MDPs (AAAI, 2015)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://www.aaai.org/ocs/index.php/FSS/FSS15/paper/viewFile/11673/11503) / Summary PDF
 * Learning to communicate with Deep Multi-Agent Reinforcement Learning (NIPS, 2016)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://papers.nips.cc/paper/2016/file/c7635bfd99248a2cdef8249ef7bfbef4-Paper.pdf) / Summary PDF
 * Prioritized Experience Replay (ICLR, 2016)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://arxiv.org/pdf/1511.05952.pdf) / Summary PDF
 * Partially observable Markov Decision Process
   * Summary PDF
