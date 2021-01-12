@@ -9,7 +9,7 @@
 ## Graph representation Deep Learning Algorithm
 * Semi-Supervised Classification with Graph Convolutional Networks (ICLR, 2017)
   * [Original Paper](https://openreview.net/pdf?id=SJU4ayYgl) / Summary PDF
-* Convolutional Networks on Graphs for Learning Molecular FingerPrints (NIPS,2015)
+* Convolutional Networks on Graphs for Learning Molecular FingerPrints (NIPS, 2015)
   * [Original Paper](https://papers.nips.cc/paper/2015/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf) / Summary PDF
 ## Machine Learning Algorithm
 * Clustering Ensemble Method (Int. J. Mach. Learn., 2019)
