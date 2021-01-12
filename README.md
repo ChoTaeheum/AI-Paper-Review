@@ -5,7 +5,7 @@
 
 ## Bio-medical Deep Learning Algorithm
 * Dipeptide Frequency of Word Frequency and Graph Convolutional Networks for DTA Prediction (2020, Front. Bioeng. Biotechnol.)
-** Original Paper Link / Summary PDF
+  * Original Paper Link / Summary PDF
 
 ## Machine Learning Algorithm
 
