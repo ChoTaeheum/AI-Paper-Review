@@ -8,12 +8,12 @@
   * [Original Paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00267/full) / Summary PDF
 ## Graph representation Deep Learning Algorithm
 * Semi-Supervised Classification with Graph Convolutional Networks (ICLR, 2017)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://openreview.net/pdf?id=SJU4ayYgl) / Summary PDF
 * Convolutional Networks on Graphs for Learning Molecular FingerPrints (NIPS,2015)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://papers.nips.cc/paper/2015/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf) / Summary PDF
 ## Machine Learning Algorithm
 * Clustering Ensemble Method (Int. J. Mach. Learn., 2019)
-  * Original Paper / Summary PDF
+  * [Original Paper](https://link.springer.com/article/10.1007/s13042-017-0756-7) / Summary PDF
 
 
 ## Reinforcement Learning Algorithm
