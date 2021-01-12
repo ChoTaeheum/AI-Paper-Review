@@ -28,4 +28,4 @@
 * Prioritized Experience Replay (ICLR, 2016)
   * [Original Paper](https://arxiv.org/pdf/1511.05952.pdf) / [Summary PDF](https://github.com/ChoTaeheum/AI-paper-review/blob/main/Prioritized%20ER.pdf)
 * Partially observable Markov Decision Process
-  * Summary PDF(https://github.com/ChoTaeheum/AI-paper-review/blob/main/POMDP.pdf)
+  * [Summary PDF](https://github.com/ChoTaeheum/AI-paper-review/blob/main/POMDP.pdf)
